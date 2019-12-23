@@ -2,8 +2,6 @@
 
 #include <math.h>
 
-
-
 const int GSR=A3;
 int sensorValue=0;
 float gsr_average=0;
